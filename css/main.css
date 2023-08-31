@@ -1,0 +1,43 @@
+nav > ul {
+  display: flex;
+}
+
+nav li {
+  list-style: none;
+  margin-right: 20px;
+  padding: 14px;
+  border-radius: 6px;
+}
+
+nav li a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+nav li:hover {
+  background-color: blueviolet;
+}
+
+.blogs {
+  background-color: darkcyan;
+  color: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  border: 5px solid red;
+}
+
+.btn-text {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+footer p {
+  text-align: center;
+  margin-top: 30px;
+}
